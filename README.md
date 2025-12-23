@@ -2,8 +2,8 @@
 
 ## 1. Informasi Penyusun
 
-- **Nama:** `I Gusti Agung Widi Adinatha`
-- **NIM:** `2515101110`
+- **Nama:** `I Gusti Lanang Agung Raditya Putra Nanda`
+- **NIM:** `2515101097`
 - **Program Studi:** `Ilmu Komputer`
 - **Mata Kuliah:** Statistika dan Probabilitas
 
