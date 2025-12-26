@@ -14,7 +14,7 @@
 Pada bagian ini, jelaskan secara singkat dataset yang Anda gunakan. Apa saja variabel di dalamnya? Apa tujuan dari analisis yang Anda lakukan?
 
 *Contoh:*
-> Dataset yang digunakan adalah data `kelahiran & kematian` yang berisi informasi tentang `ANGKA KELAHIRAN & KEMATIAN KASAR (CBR & CDR) DIRINCI MENURUT DESA DI KECAMATAN MRANGGEN 2019`. Variabel kunci dalam dataset ini meliputi `variabel_A`, `variabel_B`, dan `variabel_C`. Tujuan dari proyek ini adalah untuk memahami karakteristik data melalui statistik deskriptif, menguji hubungan antara `variabel_A` dan `variabel_B` melalui analisis korelasi, serta memprediksi `variabel_C` menggunakan `variabel_A` sebagai prediktor melalui analisis regresi.
+> Dataset yang digunakan adalah data `...` yang berisi informasi tentang `...`. Variabel kunci dalam dataset ini meliputi `variabel_A`, `variabel_B`, dan `variabel_C`. Tujuan dari proyek ini adalah untuk memahami karakteristik data melalui statistik deskriptif, menguji hubungan antara `variabel_A` dan `variabel_B` melalui analisis korelasi, serta memprediksi `variabel_C` menggunakan `variabel_A` sebagai prediktor melalui analisis regresi.
 
 ---
 
@@ -52,7 +52,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Tabel atau ringkasan...*
   - *Interpretasi:* Jelaskan seberapa menyebar data Anda berdasarkan nilai-nilai ini.
 - **Visualisasi (Histogram/Boxplot):**
-  - *Sematkan gambar plot dari folder /results...*
+  - <a href="#"><img src="results/histogram_Pendapatan_Tahunan_Miliar_IDR.png" /></a>
   - *Interpretasi:* Jelaskan wawasan apa yang Anda dapatkan dari bentuk distribusi data.
 
 ### 5.2. Uji Normalitas
@@ -60,7 +60,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Nilai p-value...*
   - *Interpretasi:* Apakah data Anda terdistribusi normal berdasarkan hasil uji? Apa implikasinya?
 - **Plot Q-Q:**
-  - *Sematkan gambar plot dari folder /results...*
+  - <a href="#"><img src="results/qqplot_Pendapatan_Tahunan_Miliar_IDR.png" /></a>
   - *Interpretasi:* Apakah titik-titik data mengikuti garis lurus? Apa artinya?
 
 ### 5.3. Analisis Korelasi
@@ -68,7 +68,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Nilai r...*
   - *Interpretasi:* Seberapa kuat dan apa arah hubungan antara dua variabel yang Anda uji? (misalnya, korelasi positif kuat, negatif lemah, atau tidak ada korelasi).
 - **Visualisasi (Scatter Plot):**
-  - *Sematkan gambar plot dari folder /results...*
+  - <a href="#"><img src="results/scatterplot_Nilai_Pelanggan_Juta_IDR_vs_Pendapatan_Tahunan_Miliar_IDR.png" /></a>
   - *Interpretasi:* Apakah pola pada scatter plot mendukung hasil koefisien korelasi?
 
 ### 5.4. Analisis Regresi
@@ -79,7 +79,7 @@ Di bagian ini, mahasiswa diharapkan untuk menyajikan dan menginterpretasikan has
   - *Nilai R-squared...*
   - *Interpretasi:* Berapa persen variasi dari variabel dependen yang dapat dijelaskan oleh model regresi Anda?
 - **Visualisasi (Garis Regresi pada Scatter Plot):**
-  - *Sematkan gambar plot dari folder /results...*
+  - <a href="#"><img src="results/plot_regresi_Nilai_Pelanggan_Juta_IDR_vs_Pendapatan_Tahunan_Miliar_IDR.png" /></a>
   - *Interpretasi:* Jelaskan bagaimana garis regresi merepresentasikan hubungan antara variabel.
 
 ---
